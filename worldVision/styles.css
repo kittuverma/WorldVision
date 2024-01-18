@@ -1,0 +1,220 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.container-fluid{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.T1{
+  font-size: small !important;
+}
+.login-btn {
+    width: 117px;
+    height: 31px;
+    background-color: #f37021;
+    padding: 8px;
+     font-size: 13px;
+    border-radius: 4px;
+}
+.btc{
+    color: #fff !important;
+ font-weight: 600;
+ text-decoration: none;
+}
+.num{
+    font-weight: 600;
+    font-size: 22px;
+    margin: auto;
+}
+.footer{
+    background-color:#4b4b4b;
+    color: #fff;
+    font-size: large;
+}
+.footer-head{
+    color: #fff;
+    text-decoration: none;
+    font-size: medium;
+}
+.icon-footer{
+    border-radius: 100%;
+    background-color:#999;
+    font-size: 15px;
+    padding: 6px 9px;
+    color: #4b4b4b;
+}
+.io{
+color:#999;
+}
+.bottom-left {
+    position: absolute;
+    top: 23rem;
+    left: 45px;
+    font-size:30px;
+    color: white;
+  }
+  .bottom-left1 {
+    position: absolute;
+    top: 30rem;
+    left: 45px;
+    background-color: #f37021;
+    color: white;
+  }
+  
+.footer-text{
+    color: #fff;
+    text-decoration: none;
+    font-size: small;
+   
+}
+
+.bg-image{
+    background-image: url('https://www.worldvision.in/images/inthe-news2.jpg');
+   
+   min-height: 700px;
+}
+.img{
+    border: 14px solid #f37021;
+}
+.h6{
+    font-family: Lato-Bold;
+    font-size: 14px;
+    color: #232324;
+    padding: 0 0 5px;
+    float: left;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.text-p{
+    font-size: 13px;
+    color: #666;
+   
+}
+.text-p1{
+    font-size: 11px;
+    font-weight: 500;
+   
+}
+.image{
+    position: absolute;
+    top: 180px;
+}
+.orange{
+    text-decoration: none; 
+    font-weight: 500;
+    color: #f37021;
+
+}
+.bg-orange{
+    background-color: #f37021;
+    padding: 1.5rem 0rem;
+    color: #fff;
+    position: absolute;
+    bottom: -4rem;
+   text-align: center;
+   left: 10%;
+}
+.bg1slide {
+    background: #f37021;
+    color: #fff;
+    padding: 2rem 3rem
+}
+.bg2slide {
+    background: #999;
+    padding: 2rem 2.5rem 2rem 1rem;
+
+    color:black;
+}
+
+.carousel-control-next-icon{
+    border: none !important;
+}
+.pad{
+    padding-top: 10%
+}
+@media  (max-width: 1024px){
+   .col2{
+    float: right;
+   }
+.btn{
+    padding: 0.3rem;
+}
+.ques{
+    padding-top: 25%;
+}
+}
+@media  (max-width: 989px){
+    .girl{
+        display: none;
+    }
+.btn{
+    padding: 0.3rem;
+}
+
+.ques{
+    padding-top: 25%;
+}
+}
+    @media  (max-width: 769px){
+        .girl{
+            display: none;
+        }
+        .btn{
+            padding: 0.3rem;
+            font-size: 10px;
+        }
+        .ques{
+            padding-top: 45%;
+        }
+    }
+    @media  (max-width: 600px){
+        .girl{
+            display: none;
+        }
+        .btn{
+            padding: 0.3rem;
+            font-size: 10px;
+        }
+        .pad{
+            padding-top: 12%
+        }
+        .ques{
+            padding-top: 55%;
+        }
+    }
+    @media  (max-width: 400px){
+        .girl{
+            display: none;
+        }
+        .btn{
+            padding: 0.3rem;
+            font-size: 10px;
+        }
+        .pad{
+            padding-top: 16%
+        }
+        .ques{
+            padding-top: 80%;
+        }
+    }
+    @media  (max-width: 350px){
+        .girl{
+            display: none;
+        }
+        .btn{
+            padding: 0.3rem;
+            font-size: 10px;
+        }
+        .pad{
+            padding-top: 16%
+        }
+        .ques{
+            padding-top: 90%;
+        }
+    }
